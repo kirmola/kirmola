@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/kirmolaa" target="blank"><img src="https://img.shields.io/twitter/follow/kirmolaa?logo=twitter&style=for-the-badge" alt="kirmolaa" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [kirmola.dev](kirmola.dev)
+- 👨‍💻 All of my projects are available at [kirmola.dev](https://kirmola.dev)
 
-- 📝 I regularly write articles on [blog.kirmola.dev](blog.kirmola.dev)
+- 📝 I regularly write articles on [blog.kirmola.dev](https://blog.kirmola.dev)
 
 - 📫 How to reach me **aman@kirmola.dev**
 
